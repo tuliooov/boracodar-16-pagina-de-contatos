@@ -1,6 +1,8 @@
 
 ## Challenge 16 - Contacts Page - <a href="https://www.rocketseat.com.br/boracodar/desafios-anteriores/uma-pagina-de-contatos-desafio-16">#BoraCodar</a>
-Develop a weather page.
+Develop a contacts page.
+
+<img width="1110" alt="image" src="https://github.com/tuliooov/boracodar-16-pagina-de-contatos/assets/28486303/f6f511bc-a33a-4f12-9db2-e55685a518e9">
 
 
 ## 🛠️ In this project was used
